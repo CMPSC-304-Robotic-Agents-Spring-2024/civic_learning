@@ -6,8 +6,8 @@
 
 In this assignment you are invited to:
 
-1. Take some time to reflect on the work you have completed for your community engagement in this course. Reflection is not merely describing what you have done, but understanding and analyzing what it means and what it contributes toward.
-2. Propose an action plan to provide a solution to the public challenge of computing education in K-12. 
+1. Take some time to reflect on the work you have completed for your community engagement in this course. Reflection is not merely describing what you have done, but understanding and analyzing what it means and what it contributes toward. This step must be completed individually.
+2. Propose an action plan to provide a solution to the public challenge of computing education in K-12. This step can be completed either individually or with a partner. If working with a partner, each team member should submit this part in their own repository, although the content for this step could be exactly the same for both individuals.
 
 ## Assessment
 
