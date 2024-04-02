@@ -24,7 +24,7 @@ TODO: Describe any observed systemic inequities, if any, and how they might affe
 
 TODO: Reflect on the personal qualities you have developed or strengthened through your community engagement (e.g., leadership, empathy, and communication skills). Discuss the challenges faced and significant insights gained from your experience.
 
-## 2. Proposed Action 
+## 2. Proposed Action
 
 TODO: Add a team member if worked with a partner; otherwise, just delete this TODO
 
